@@ -4,7 +4,7 @@
 {: .text-center}
 <br>
 # WELCOME TO THE WALL!
- {: .text-center}
+ {: .text-center} HELLO, WORLD!
 <br>
 **It's time to contribute to your very first open source project by adding a quick message to welcome everyone who comes after you.**
 {: .text-left}
